@@ -25,7 +25,7 @@ public class AnnotationProject {
 
 	
 	@Test(priority=2)
-	public void TestTitle() {
+	public void TestTitle1() {
 		
 		String ExpectedTitle="Swag Labs";
 		String ActualTitle= driver.getTitle();
